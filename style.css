@@ -1,0 +1,43 @@
+.principal {
+    backgroud: #CCCCCC
+    padding: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+
+}
+
+.titulo-centralizado {
+
+	text-align: center;
+    font-size: 50px
+}
+
+p {
+    text-align:center;
+    font-size: 20px
+}
+
+.serviços {
+    backgroud: #FFFFFF
+}
+
+.itens {
+    font-style: italic;
+    font-size: 20px
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
+}
